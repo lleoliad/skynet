@@ -4,3 +4,6 @@
 [submodule "3rd/lua-cjson"]
 	path = 3rd/lua-cjson
 	url = https://github.com/cloudwu/lua-cjson.git
+[submodule "3rd/lua-resty-kafka"]
+	path = 3rd/lua-resty-kafka
+	url = https://github.com/doujiang24/lua-resty-kafka.git
